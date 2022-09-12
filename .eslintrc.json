@@ -25,7 +25,7 @@
     ],
     "rules": {
         "quotes": [
-            "off",
+            "error",
             "double",
             {
             "avoidEscape": true
