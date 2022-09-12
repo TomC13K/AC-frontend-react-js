@@ -73,3 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## ESLint AirBnB styles
 https://github.com/airbnb/javascript/tree/master/react
 
+
+## Using WebStorm
+ESLint  MUST use version of 8.22 not 8.23 as it doesnt work properly
+use command
+```bash
+npm install eslint@8.22.0 --save-exact
+```
